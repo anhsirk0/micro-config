@@ -1,0 +1,8 @@
+{
+    "colorscheme": "cyanide",
+    "ft:c": {
+        "tabsize": 4
+    },
+    "statusformatl": "    ",
+    "statusformatr": "$(filename) $(modified)($(line),$(col)) $(status.paste)| ft:$(opt:filetype)    "
+}

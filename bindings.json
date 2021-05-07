@@ -1,0 +1,14 @@
+{
+	"Alt-h": "command:hsplit",
+    "Alt-/": "lua:comment.comment",
+    "CtrlUnderscore": "lua:comment.comment",
+    "Alt-v": "command:vsplit",
+    "Ctrl-p": "command:vsplit",
+    "Alt-n": "command:term",
+    "Ctrl-n": "command:term",
+    "Alt-o": "command:open",
+    "Ctrl-j": "SelectWordRight",
+    "Ctrl-u": "SelectWordLeft",
+    "Alt-l": "command:set colorscheme simple",
+    "Alt-k": "command:set colorscheme cyanide",
+}
