@@ -1,3 +1,3 @@
 # micro text editor
-Custom micro config
-syntax & colorschemes
+My config for micro text editor
+also inclludes syntax & colorschemes
